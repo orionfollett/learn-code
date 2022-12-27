@@ -15,6 +15,13 @@ Your first programming language will be Python. It is a really powerful language
 Python is very similar to many other programming languages, so once you have mastered Python, it won't be too hard to switch to most other languages.
 
 
+##Terminal
+The terminal, command line, or powershell, are all essentially the same thing.
+
+On Windows, type "cmd" into your windows search bar, this will pull up the windows command line.
+
+The terminal lets you interact directly with your operating system by typing commands, instead of clicking a GUI (graphical user interface) on your screen.
+
 ## Git
 To share lessons with you, we will use a tool called "git".
 Git has many functions but one of them is that it makes it easy to share code over the internet. It's like a more powerful but more complicated Google Drive.
@@ -23,7 +30,7 @@ Git has many functions but one of them is that it makes it easy to share code ov
 Git uses the terminal. 
 
 
-To first get the repo:
+To first get the repo paste this command into your terminal:
 
 ```console
 git clone https://github.com/orionfollett/learn-code.git
@@ -40,6 +47,24 @@ git stash pop
 The first command saves your work and hides it
 The second command pulls new changes
 The third command brings your work back on top of the new changes
+
+## VSCode
+
+VSCode is a lightweight but powerful code editor.
+
+Download VSCode here: https://code.visualstudio.com/download
+
+You can open any folder on your computer by going to that folder, right clicking, selecting "Terminal" and typing
+
+```console
+code .
+```
+
+Once you are in VSCode, click the stacked boxes icon in the left toolbar, or use the keyboard short cut: Ctrl+Shift+X
+
+Search for Python, and install the first package, authored by Microsoft
+
+
 
 
 
