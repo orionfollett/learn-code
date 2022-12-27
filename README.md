@@ -26,9 +26,13 @@ The terminal lets you interact directly with your operating system by typing com
 To share lessons with you, we will use a tool called "git".
 Git has many functions but one of them is that it makes it easy to share code over the internet. It's like a more powerful but more complicated Google Drive.
 
+Git needs to be installed on most machines, here is a link: https://git-scm.com/downloads
 
 Git uses the terminal. 
 
+Create a folder where you want to save your work.
+
+Inside the folder, right click and select "Terminal"
 
 To first get the repo paste this command into your terminal:
 
@@ -60,9 +64,9 @@ You can open any folder on your computer by going to that folder, right clicking
 code .
 ```
 
-Once you are in VSCode, click the stacked boxes icon in the left toolbar, or use the keyboard short cut: Ctrl+Shift+X
-
-Search for Python, and install the first package, authored by Microsoft
+Once you are in VSCode:
+- click the stacked boxes icon in the left toolbar, or use the keyboard short cut: Ctrl+Shift+X
+- Search for Python, and install the first package, authored by Microsoft
 
 
 
