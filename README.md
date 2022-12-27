@@ -52,6 +52,8 @@ The first command saves your work and hides it
 The second command pulls new changes
 The third command brings your work back on top of the new changes
 
+For further reading, here is a good basic guide to git: https://rogerdudler.github.io/git-guide/
+
 ## VSCode
 
 VSCode is a lightweight but powerful code editor.
