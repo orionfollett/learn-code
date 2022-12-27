@@ -108,8 +108,10 @@ print(type(floatType)) # will print "float"
 
 
 
-print("--------------------Section 2.3 - Operators ----------------------")
+print("--------------------Section 2.4 - Operators ----------------------")
 #Depending on the type you can do different things with variables:
+#To do things to variables, you use operators. An operator is a symbol that lets you manipulate variables, this will
+#make more sense in a moment with some examples
 
 #In a comment next to each line, write what you think each line of code will print
 
@@ -128,8 +130,66 @@ print("1" + "2")
 #   *    -> multiply sign, multiplies two numbers
 #   /    -> division sign, divides two numbers
 
+#not all operators work on all types, you can add two strings, but you cannot subtract them
 
 
+#Another operator that you have already seen is called the "assignment" operator. it is the equals sign: "="
+#the assignment operator is different from an equals sign in math in a subtle way. In math, an equals sign is you 
+#telling someone two things are equal. The assignment operator is you assigning a value to a variable, and nothing else.
+
+#in math, x = 2, and 2 = 2, and 2 = x
+#in programming x = 2, but 2 = x does not make sense, and 2 = 2 is an error, because 2 cannot be a variable name as its already the name of a number!
+
+#you can combine the assignment operator with the other operators:
+
+x = 2
+y = 4
+sum = x + y
+
+#For example you could approximate the circumference of a circle
+radius = 2
+pi = 3.14
+circumference = 2 * pi * radius
+print(circumference)
+
+#Task: Complete the following code fragment:
+areaOfCircle = 0 # replace 0 with the formula for area of circle, using the variables we already defined
+print(areaOfCircle)
+
+
+print("--------------------Section 2.5 - Boolean values ----------------------")
+
+# "Boolean" or "bool" is a type that can be true or false, they are also called logical types
+
+#here is how the literal values, 'True' and 'False' can be assigned to a variable
+x = True
+notX = False
+
+print(x)
+print(notX)
+
+#There are special operators for boolean values
+
+#not -> converts the boolean to be the opposite of whatever it is ex: "not True" would evaluate to "False"
+# and -> return True is both values are True, or False otherwise
+# or -> return True if one or the other values is True, and only returns False if both are False
+# == -> comparison operator, returns True if both values are equal, it is the equivalent as asking "is equal to"
+# <  -> 'less than' sign, just like in math, returns true if the left value is less than the right value
+# <= -> 'less than or equal to' sign, same but also returns if they are equal
+# >  -> 'greater than'
+# >= -> 'greater than or equal to'
+
+#comment next to each one of these what these print statements what you think they will show when you uncomment them
+
+#print(not False)
+#print(True and False)
+#print(False and True)
+#print(False or False)
+#print(False or True)
+#print(12 == 12)
+#print(not 12 == 12)
+#print(not (True or False))
+#print((not True) or (not False))
 
 
 
@@ -143,8 +203,8 @@ print("1" + "2")
 # int - 
 # float - 
 # assignment - 
-
-
-
-
-#Further optional reading on 'print' statements and other possibilities: https://docs.python.org/3/tutorial/inputoutput.html
+# concatenate - 
+# operator - 
+# and - 
+# or -
+# not - 
