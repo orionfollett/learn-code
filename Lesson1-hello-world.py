@@ -60,8 +60,9 @@ print("Hello World")
 #1. They have a name, in this case 'print'
 #2. They have parenthesis that come after the name
 #3. Inside the parenthesis, they have zero, one, or more 'input parameters' also called 'arguments' that are separated by commas (in this case there is only one argument).
-#   These are inputs that the function takes, and does things with them. 
-#   In this case, 'print' takes only one argument, ' "Hello World" '.
+#   These are inputs that the function takes, and does things with them. Common jargon is to say we "pass" arguments to a function.
+#   In this case, 'print' takes only one argument, ' "Hello World" '. 
+#   In other words, We "pass" the string "hello world" to the function "print". 
 
 #print takes one argument, a string (more on that later), and prints it to your terminal.
 
@@ -84,7 +85,8 @@ print("Hello World")
 
 #You may have already noticed a few quirks about this particular programming language, Python
 #The first thing to be aware of in Python, is that indentation matters. If you try to write code
-#at different indentations that Python is not expecting, it will throw errors at you and not run.
+#at different indentations that Python is not expecting, it will throw errors at you and not run. Indents are 
+#tabs or spaces at the beginning of a new line
 
 #Python also has a lot less syntax than other programming languages. 
 #Syntax is like grammar in human languages, they are the rules of how languages are written down.
@@ -101,3 +103,16 @@ print("Hello World")
 
 #2. What happens if you put a period at the end of the line (like most English sentences)? Or if you put a semicolon at the end of the line (like most other programming languages)?
 
+
+
+
+#Learning programming is like learning another language, so it's good to keep track of words that may be new to you:
+
+#Define these things in your own words or using mine:
+
+#Vocabulary:
+#function - 
+#syntax - 
+#arguments - 
+#indent - 
+#pass, as in passing an argument to a function - 

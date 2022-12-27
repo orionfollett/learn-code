@@ -72,7 +72,10 @@ Once you are in VSCode:
 
 
 
+##Final Thoughts
 
+Learning to code is like learning a new language. Be patient with yourself and learn the basics well
+and before you know it you will be creating really cool things!
 
 
 
