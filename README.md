@@ -1,6 +1,6 @@
-#Introduction
+# Introduction
 
-##Python
+## Python
 Your first programming language will be Python. It is a really powerful language that has been used to develop lots of computer programs like:
 - Youtube
 - Google
@@ -15,7 +15,7 @@ Your first programming language will be Python. It is a really powerful language
 Python is very similar to many other programming languages, so once you have mastered Python, it won't be too hard to switch to most other languages.
 
 
-##Git
+## Git
 To share lessons with you, we will use a tool called "git".
 Git has many functions but one of them is that it makes it easy to share code over the internet. It's like a more powerful but more complicated Google Drive.
 
