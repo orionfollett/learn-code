@@ -14,6 +14,8 @@ Your first programming language will be Python. It is a really powerful language
 
 Python is very similar to many other programming languages, so once you have mastered Python, it won't be too hard to switch to most other languages.
 
+**Important** When you're learning Python, do not copy and paste code, even if it seems repetitive, it is good muscle memory to type everything out when you are learning.
+
 
 ##Terminal
 The terminal, command line, or powershell, are all essentially the same thing.

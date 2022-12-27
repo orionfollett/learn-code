@@ -37,10 +37,14 @@ print("END IF STATEMENT")
 enemyDistanceFromPlayer = 32
 attackRange = 10
 
-if enemyDistanceFromPlayer < attackRange:
+if enemyDistanceFromPlayer < attackRange: # if the enemy is within range, it will attack, otherwise it will move towards the player
     print("enemy attack code would go here")
 else:
     print("enemy  would move towards the player")
+
+
+#the if statement has two parts, the word "if", and then the "condition" which comes after the word 
+#the "body" of the if statement is the code that executes if the condition is True
 
 
 #TASK:
