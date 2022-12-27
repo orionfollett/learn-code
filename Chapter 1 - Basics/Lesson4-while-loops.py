@@ -47,7 +47,7 @@ while counter < 10:
 
 
 
-print("---------------------Lesson 4.3 - Infinite Loops--------------------------------")
+print("---------------------Lesson 4.2 - Infinite Loops--------------------------------")
 #One thing that can start happening as you write loops is you can accidentally create an infinite loop
 #When you create an infinite loop, your computer burns up and creates a singularity that has 5% of swallowing the Earth
 
@@ -78,7 +78,7 @@ print("---------------------Lesson 4.3 - Infinite Loops-------------------------
 
 
 
-print("---------------------Lesson 4.4 User Input Loop --------------------------------")
+print("---------------------Lesson 4.3 User Input Loop --------------------------------")
 
 #loops are often at the core of any video game, called the main gameplay loop
 
@@ -114,9 +114,14 @@ print("Game Over")
 #Write your own game play loop with some different options:
 
 
-
+print("---------------------Challenge-----------------------------")
 #Challenge (ask for help if you need it): Fibonacci Sequence 
 
 #The fibonacci sequence is a sequence of numbers that often appears in nature. More about it here: https://en.wikipedia.org/wiki/Fibonacci_number
 
-#I want you to print the first 99 numbers of the fibonnacci sequence:
+#the fibonacci numbers go like this: 0, 1, 1, 2, 3, 5, 8, 13, 21 ...
+#The pattern is that each number is the sum of the last two numbers
+#The next number in the sequence would be 13 + 21 which is 34
+#The first fibonacci number is 0, and the second fibonacci number is 1
+
+#I want you to print the first 99 fibonacci numbers:
