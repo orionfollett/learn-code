@@ -26,7 +26,7 @@ Git uses the terminal.
 To first get the repo:
 
 ```console
-git clone {repo url}
+git clone https://github.com/orionfollett/learn-code.git
 ```
 
 To get updates to the repo enter these commands one after another in the folder where you cloned this project:
