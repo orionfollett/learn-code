@@ -27,7 +27,7 @@ To first get the repo:
 
 ```console
 git clone {repo url}
-'''
+```
 
 To get updates to the repo enter these commands one after another in the folder where you cloned this project:
 
@@ -35,7 +35,7 @@ To get updates to the repo enter these commands one after another in the folder 
 git stash
 git pull
 git stash pop
-'''
+```
 
 The first command saves your work and hides it
 The second command pulls new changes
