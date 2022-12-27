@@ -115,9 +115,8 @@ print("Game Over")
 
 
 
-#Challenge: Fibonacci Sequence 
-
+#Challenge (ask for help if you need it): Fibonacci Sequence 
 
 #The fibonacci sequence is a sequence of numbers that often appears in nature. More about it here: https://en.wikipedia.org/wiki/Fibonacci_number
 
-#I want you to generate
+#I want you to print the first 99 numbers of the fibonnacci sequence:

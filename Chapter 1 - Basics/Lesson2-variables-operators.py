@@ -132,7 +132,6 @@ print("1" + "2")
 
 #not all operators work on all types, you can add two strings, but you cannot subtract them
 
-
 #Another operator that you have already seen is called the "assignment" operator. it is the equals sign: "="
 #the assignment operator is different from an equals sign in math in a subtle way. In math, an equals sign is you 
 #telling someone two things are equal. The assignment operator is you assigning a value to a variable, and nothing else.
