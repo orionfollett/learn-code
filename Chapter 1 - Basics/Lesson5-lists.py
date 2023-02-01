@@ -31,6 +31,33 @@ print("Before append " + str(enemyDetectionList))
 enemyDetectionList.append(True)
 print("After append " + str(enemyDetectionList))
 
+#You can also remove an element from a list:
+
+enemyDetectionList.pop() # this will remove the last tiem from a list
+
+#Loops are very useful when combined with lists.
+
+#For example what if I gave you a list of numbers, and asked you to add them all up?
+nums = [5, 7, 1, 10, 12, 56, 234, -15]
+
+#Question 1:
+
+#Write a loop to sum a list of numbers like the list above:
+
+
+#Challenge Question 2: 
+
+#Given a list of words, write a loop that reverses the list:
+
+#ex:
+words = ["hello", "my", "name", "is", "Orion"]
+
+#you want to make this say: ["Orion", "is", "name", "my", "hello"]
+
+#Challenge Question 3:
+
+#Google how to reverse a list and see if there are other ways of doing it than the way you did it.
+#Write the other ways below:
 
 
 

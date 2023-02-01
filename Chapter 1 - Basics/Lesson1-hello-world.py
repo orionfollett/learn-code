@@ -1,3 +1,6 @@
+#EDGE
+#Explain, demonstrate, guide, enable
+
 #LESSON 1 - Hello World
 
 
@@ -76,8 +79,6 @@ print("Hello World")
 
 
 
-#EDGE
-#Explain, demonstrate, guide, enable
 
 
 

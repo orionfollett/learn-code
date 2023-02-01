@@ -3,7 +3,7 @@
 
 print("---------------------Lesson 4.1 - Print Hello 1000 times--------------------------------")
 
-#What if I asked you to print Hello 1000 times? Or if I asked you to print every even number from 0 to 1000?
+#What if I asked you to print Hello 1000 times? Or if I asked you to print every EVEN number from 0 to 1000?
 
 #you could do this:
 print("0")
@@ -14,7 +14,7 @@ print("2")
 #You wouldn't want to type all of that out, humans are slow and smart, computer are dumb, but incredibly fast. So let's let the
 #computer do the work
 
-#To do something repitively, Python gives you a tool called loops, there are two types of loops, while loops, and for loops.
+#To do something repetitively, Python gives you a tool called loops, there are two types of loops, while loops, and for loops.
 #this lesson will show you while loops:
 
 #A while loop is like an if statement, except instead of only executing the code in the body one time, 
